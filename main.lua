@@ -25,17 +25,17 @@ HIDDEN_PLAYERS = { -- add playerName=true to prevent them from appearing on the 
 }
 
 CUSTOM_LABEL_BACKGROUND_COLORS = { -- add playerName=color3 to give certain players a unique backgroundColor
-	Player1 = Color3.new(1, 0.5, 1)
+	Sideeqcool = Color3.new(1, 0.5, 1)
 }
 
 CUSTOM_LABEL_NAME_COLORS = { -- add playerName=color3 to give certain players a uniquely-colored name
-	Player1 = Color3.new(0, 0.5, 1)
+	Sideeqcool = Color3.new(0, 0.5, 1)
 }
 
 ADMINS =
 { -- add your name = 1 to get a star icon.  Add your name = image to get a custom icon.
 	Sideeqcool = "http://www.roblox.com/asset?id=148012526",
-  Sideeqcool = 1
+  	Sideeqcool = 1
 }
 
 ADMIN_ICON_WIDTHS = {
@@ -43,7 +43,7 @@ ADMIN_ICON_WIDTHS = {
 }
 
 ALIASES = {
-	Sideeqcool = "megaballsgaming",
+	Sideeqcool = "megaballsgaming"
 }
 
 -- API DOCS
